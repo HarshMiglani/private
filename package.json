@@ -2,7 +2,7 @@
   "name": "private",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://HarshMiglani.github.io/private",
+  "homepage": "https://harshmiglani.github.io/private",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
